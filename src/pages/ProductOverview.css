@@ -1,0 +1,38 @@
+.cardDiv {
+    width: 18rem;
+    margin-bottom: 25px;
+}
+
+.cardDiv :hover {
+    text-decoration: none;
+
+}
+
+.cardImage {
+    max-height: 150px;
+    min-height: 150px;
+    width: auto;
+    max-width: 200px;
+}
+
+.cardImage :hover {
+    max-height: 150px;
+    max-width: 150px;
+}
+
+.divImg {
+    max-height: 150px;
+    min-height: 150px;
+    width: auto;
+    margin: auto;
+    vertical-align: middle;
+    transition: transform .2s;
+}
+
+.divImg :hover {
+    transform: scale(1.1);
+}
+
+.divInfo {
+
+}
