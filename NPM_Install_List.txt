@@ -1,0 +1,3 @@
+npm install react-bootstrap bootstrap
+npm install redux
+npm install @reduxjs/toolkit
